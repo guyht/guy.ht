@@ -1,3 +1,0 @@
-[submodule "cakefile"]
-	path = cakefile
-	url = ssh://git@localhost:1986/git/cakefile.git
